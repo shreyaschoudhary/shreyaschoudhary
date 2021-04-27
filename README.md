@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyaschoudhary
 - 👀 I’m interested in working in the field of data analytics and machine learning
-- 🌱 I’m currently learning Tableau, Django, AWS.
+- 🌱 I’m currently learning Tableau, Power BI, Machine Learning Deployment and Deep Learning.
 - 💞️ I’m looking to collaborate on anything related to data!
 - 📫 How to reach me- shreyas.uoft@gmail.com
 
