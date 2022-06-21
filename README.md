@@ -2,8 +2,8 @@
 - 👀 I’m interested in working in the field of Data Science and Analytics, Business Intelligence and Product Management.
 - 🌱 I’m currently learning Flask, React Framework.
 - 🌱 I’m currently trying to get into product management.
-- 💞️ I’m looking to collaborate on anything related to data!
-- 📫 How to reach me- shreyas.uoft@gmail.com
+- 💞️ I’m looking to collaborate on anything related to data, product!
+- 📫 How to reach me- shreyas.uoft@gmail.com or LinkedIn - Shreyas Choudhary
 
 <!---
 shreyaschoudhary/shreyaschoudhary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
