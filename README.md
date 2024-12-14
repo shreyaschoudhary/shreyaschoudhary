@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shreyaschoudhary
-- 👀 I’m interested in working in the field of Data Science and Analytics, Business Intelligence and Product Management.
-- 🌱 I’m currently learning Flask, React Framework.
-- 🌱 I’m currently trying to get into product management.
-- 💞️ I’m looking to collaborate on anything related to data, product!
+- 👨‍💻 Utilizing and upgrading my skills @SiriusXM Canada
+- 👀 I’m interested in working in the field of Data Science and Analytics, Business Intelligence and Machine Learning.
+- 🌱 I’m currently learning databricks.
+- 💞️ I’m looking to collaborate on anything related to Analytics and Machine Learning!
 - 📫 How to reach me- shreyas.uoft@gmail.com or LinkedIn - Shreyas Choudhary
 
 <!---
